@@ -1,1 +1,1 @@
-helloworld("print")
+print("ngngngnngngngngngngngn")
