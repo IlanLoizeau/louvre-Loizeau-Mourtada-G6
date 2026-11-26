@@ -1,1 +1,3 @@
-print("ngngngnngngngngngngngn")
+def double(x):
+    x += x
+    return x
